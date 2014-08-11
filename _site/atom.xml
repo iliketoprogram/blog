@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Chase Seibert | blog</title>
+    <link href="http://chase-seibert.github.com/blog/atom.xml" rel="self"/>
+    <link href="http://chase-seibert.github.com/blog/" />
+    <updated>2014-08-02T07:28:01-07:00</updated>
+    <id>http://chase-seibert.github.com/blog/</id>
+    <author>
+        <name>Chase Seibert</name>
+        <email>chase.seibert+blog@gmail.com</email>
+    </author>
+
+    
+        <entry>
+            <title>Why software engineers should maintain a blog</title>
+            <link href="/blog/2014/08/01/why-blogging.html"/>
+            <updated>2014-08-01T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/08/01/why-blogging</id>
+            <content type="html">&lt;p&gt;I have a few pieces of standard advice that I give to anyone starting out in software engineering.
+&lt;a href=&quot;http://chase-seibert.github.io/blog//2013/10/04/what-to-know-before-starting-at-a-startup.html&quot;&gt;Join a startup&lt;/a&gt;,
+&lt;a href=&quot;http://chase-seibert.github.io/blog//2014/01/01/saving-for-retirement-as-a-software-engineer.html&quot;&gt;max out your 401k&lt;/a&gt;
+and &lt;em&gt;start a blog&lt;/em&gt;. Why should you start blogging?&lt;/p&gt;
+
+&lt;h2&gt;Personal Branding&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://assets.amuniversal.com/8f870570df960131725e005056a9545d&quot; alt=&quot;calvin and hobbes&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Early on in your career, your biggest asset is your future earning potential. &lt;em&gt;Aside: this is why you should also
+consider buying disability insurance, which is super cheap&lt;/em&gt;. You should be continually re-investing in yourself and
+your career. Part of that is building a personal brand. When a prospective employer Googles your name, they expect
+to find your LinkedIn profile and your Facebook page. If they also find a personal blog full of your writing and
+your code, you just jumped ahead of 95% of applicants.&lt;/p&gt;
+
+&lt;p&gt;Most people on your interview loop with take the time to at least read the latest entries in your blog. They will
+probably ask you questions about something you wrote about recently. &lt;em&gt;Hint: if you&amp;#39;re actively interviewing, think
+carefully about which posts you want to at the top of the list&lt;/em&gt;. These are the absolute easiest interviews you will
+ever have, and some of the most productive. The likely hood that you know more about the subject than the interviewer
+is high.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;#39;t worry too much about the SEO aspect. If you produce good content and put your name in the title of all the pages,
+the rest will take care of itself.&lt;/p&gt;
+
+&lt;h2&gt;Career Growth&lt;/h2&gt;
+
+&lt;p&gt;When I sit down and think about what to write, I usually ask myself &amp;quot;What was the hardest problem I solved in the
+last week&amp;quot;? This is a great reality check. Am I still growing and learning in my current job? If you have honestly been
+putting in the effort to write, but you look back at the last three months of posts and don&amp;#39;t see anything particularly
+interesting, then you have your answer.&lt;/p&gt;
+
+&lt;p&gt;More and more recently, I have begun to blog about the soft side of engineering. I still write posts that explain a
+particular technical issue I ran into, but I also write down my thoughts on my &lt;em&gt;philosophy&lt;/em&gt; of engineering. I find these
+particularly useful when growing your leadership skills. Often I will have a conversation with a new engineer, and then
+reinforce my points by following up with an article I had written in the past.&lt;/p&gt;
+
+&lt;p&gt;You&amp;#39;ll be doing a lot of communication during your career, both verbal and written. Honing your ability to communicate
+well is going to pay dividends on whatever time you can spend on it. A surprising number of times I have found that it
+also pays more direct dividends; searching for a solution and finding the answer in a blog post you had previously
+written and forgotten about always makes me want to do a victory lap around the office.&lt;/p&gt;
+
+&lt;h2&gt;Giving Back&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Writing isn&amp;#39;t about making money, getting famous, getting dates, getting laid, or making friends. In the end, it&amp;#39;s
+about enriching the lives of those who will read your work, and enriching your own life, as well. It&amp;#39;s about getting
+up, getting well, and getting over. Getting happy, okay? Getting happy.” ― Stephen King,
+&lt;a href=&quot;https://www.goodreads.com/work/quotes/150292&quot;&gt;On Writing: A Memoir of the Craft&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;How many times a week do you find the perfect StackOverflow article that solves your problem and saves you hours of
+banging your head against a wall? How many times do you spend hours solving a problem, but no one else ever benefits
+from your solution? Help out other poor software engineers by posting your findings! The vast majority of the traffic
+coming to my blog is from engineers searching for specific solutions, such as &amp;quot;python memory leak&amp;quot; or &amp;quot;mysql drop
+column if exists&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;You&amp;#39;ll be surprised at the number of comments you will get. Most will just be a simple thank you. Yes - occasionally
+someone will comment just to call you an idiot. Dealing with aggressive and confrontational people is also a
+part of career growth.&lt;/p&gt;
+
+&lt;h2&gt;Good for your company&lt;/h2&gt;
+
+&lt;p&gt;Personal blogging is also good for your company. Typical corporate blogs suck at conveying the personality of the actual
+people on the team. Your blog can &lt;a href=&quot;http://www.inc.com/magazine/20100301/lets-take-this-offline.html&quot;&gt;make a bigger impact&lt;/a&gt;
+just by being authentic. If you want to combine your blog, other coworker blogs and the company blog into one site and
+RSS feed, you can use &lt;a href=&quot;http://advocoders.herokuapp.com/&quot;&gt;Advocoders&lt;/a&gt;. There are many services that can then take that
+RSS feed and turn it into a self-updating Facebook page or a Twitter profile.&lt;/p&gt;
+
+&lt;h2&gt;How to get started&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I used to tell people who asked me for advice about blogging that if they couldn&amp;#39;t think about one interesting thing
+to write about every week, they weren&amp;#39;t trying hard enough.
+&lt;a href=&quot;http://blog.codinghorror.com/10-years-of-coding-horror/&quot;&gt;Coding Horror&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The hardest part is writing. The logistics of setting up blog should be easy. I would recommend looking for a platform
+that supports syntax highlighting of code snippets that you include in your posts. Having an RSS feed of your posts is
+critical.&lt;/p&gt;
+
+&lt;p&gt;Personally, I use &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and a static site generator called
+&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. The beauty of the system is that your posts are regular GitHub markdown, just like
+when you&amp;#39;re making comments on a pull request. You publish new articles with a simple &lt;code&gt;git push&lt;/code&gt;. You could spend a
+couple of hours crafting the HTML templates and basic Jekyll configuration yourself, or you can fork my repository:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;brew install hub  &lt;span class=&quot;c&quot;&gt;# http://brew.sh/&lt;/span&gt;
+git-hub fork git@github.com:chase-seibert/blog.git
+git-hub clone blog
+&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;blog
+git branch -D gh-pages
+git checkout origin/quickstart -b gh-pages
+./run.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;A few minutes after you push your &lt;code&gt;gh-pages&lt;/code&gt; branch to GitHub, you should be able to see your blog at
+http://$username.github.io/blog.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Creating International CSV files with Python</title>
+            <link href="/blog/2014/07/30/international-csv-files-python.html"/>
+            <updated>2014-07-30T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/07/30/international-csv-files-python</id>
+            <content type="html">&lt;p&gt;You might assume that reading and writing files using the CSV format, being a simple and human-readable implementation,
+would be relatively pain free. You would be wrong. It turns out that even though there
+&lt;a href=&quot;http://tools.ietf.org/html/rfc4180&quot;&gt;is a standard&lt;/a&gt;, many applications out there do not conform, or require their own
+additions and modifications. Most notable among the outliers is Microsoft Excel, which forces you to do some crazy things
+if you want to produce CSV files that can be read by any edition of Windows/Office, including international versions.&lt;/p&gt;
+
+&lt;p&gt;Yes, you heard me right. Whether you&amp;#39;re running the US or European version of Windows can effect whether you can
+seemlessly open a CSV file with commas as the delimiter. Apparently some countries prefer their comma delimited text
+to be delimited with semicolons. More on that later.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The name &amp;quot;CSV&amp;quot; indicates the use of the comma to separate data fields. Nevertheless, the term &amp;quot;CSV&amp;quot; is widely used
+to refer a large family of formats, which differ in many ways. For example, many so-called &amp;quot;CSV&amp;quot; files in fact use
+the tab character instead of comma (such files can be more precisely referred to as &amp;quot;TSV&amp;quot; for tab separated values);
+some implementations allow or require single or double quotation marks around some or all fields; and some reserve
+the very first record as a header containing a list of field names. The character set being used is undefined:
+some applications require a Unicode BOM to enforce Unicode interpretation - &lt;a href=&quot;http://en.wikipedia.org/wiki/Comma-separated_values#Lack_of_a_standard&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Diacriticly Delicious&lt;/h2&gt;
+
+&lt;p&gt;The first hurdle when producing international CSV files with Python is the &lt;code&gt;csv&lt;/code&gt; module&amp;#39;s
+&lt;a href=&quot;https://docs.python.org/2/library/csv.html&quot;&gt;lack of native unicode support&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The csv module doesn’t directly support reading and writing Unicode, but it is 8-bit-clean save for some problems
+with ASCII NUL characters. So you can write functions or classes that handle the encoding and decoding for you as
+long as you avoid encodings like UTF-16 that use NULs. UTF-8 is recommended.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Instead, they suggest that you use a a custom &lt;code&gt;UnicodeWriter&lt;/code&gt; class.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;UnicodeWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;sd&quot;&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;sd&quot;&gt;    A CSV writer which will write rows to CSV file &amp;quot;f&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;sd&quot;&gt;    which is encoded in the given encoding.&lt;/span&gt;
+&lt;span class=&quot;sd&quot;&gt;    &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dialect&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;excel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;kwds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# Redirect output to a queue&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;queue&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cStringIO&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;StringIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;queue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dialect&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dialect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;kwds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stream&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encoder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;codecs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getincrementalencoder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)()&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;writerow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writerow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# Fetch UTF-8 output from the queue ...&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;queue&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getvalue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;decode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# ... and reencode it into the target encoding&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encoder&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# write to the target stream&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# empty queue&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;queue&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;truncate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;writerows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writerow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;However, even with this handy class, you will find that Excel 2007, 2010 and 2013 will
+&lt;a href=&quot;http://stackoverflow.com/questions/155097/microsoft-excel-mangles-diacritics-in-csv-files#answer-155176&quot;&gt;fail to detect the UTF-8 encoding&lt;/a&gt;.
+I should note that Google Docs and LibreOffice have no problems detecting the encoding. If you&amp;#39;re using earlier versions
+of Excel, it&amp;#39;s even worse. Excel 97, 2000 and 2003 will simply fail to open the file at all unless you use the import
+wizard and manually specify the encoding.&lt;/p&gt;
+
+&lt;h2&gt;Dropping Bombs&lt;/h2&gt;
+
+&lt;p&gt;For the versions of Excel from the modern era, you need to explicitly denote the encoding using a BOM, or
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Byte_order_mark&quot;&gt;Byte Order Mark&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The byte order mark (BOM) is a Unicode character used to signal the endianness (byte order) of a text file or stream.
+It is encoded at U+FEFF byte order mark (BOM). BOM use is optional, and, if used, should appear at the start of the
+text stream. Beyond its specific use as a byte-order indicator, the BOM character may also indicate which of the
+several Unicode representations the text is encoded in.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fun. I find that meditating on my own endianness is a very relaxing morning ritual. In any case, it&amp;#39;s fairly simple to
+write the UTF-8 BOM to the very start of the file:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;codecs&lt;/span&gt;
+
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dialect&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;excel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;kwds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stream&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;codecs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BOM_UTF8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Note: You need to write the BOM directly to the file buffer, and not via the UnicodeWriter.writer object, otherwise
+the BOM itself will be encoded as UTF-8, when it needs to be raw bytes.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Separating the Men from the Boys&lt;/h2&gt;
+
+&lt;p&gt;It turns our that there is another insidious issue with international versions of Windows. There is actually a setting
+in Windows &lt;a href=&quot;http://hotware.wordpress.com/2009/12/16/trouble-with-opening-csv-files-with-excel-the-comma-and-semicolon-issue-in-excel-due-to-regional-settings-for-europe/&quot;&gt;Regional and Language&lt;/a&gt;
+control panel called &amp;quot;List Separator&amp;quot;. In the US version of Windows, the default is a comma (&lt;code&gt;,&lt;/code&gt;). In other locales,
+specifically the European version, the default is often a semi-colon (&lt;code&gt;;&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/regional.png&quot; alt=&quot;regional settings&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;There are several hack solutions to this. The first is to tell all your European users to change their setting. The second
+is to save the file as a .txt file, and tell the users to choose &amp;quot;Open with Excel&amp;quot;, which will then run the import wizard
+and detect the delimiter. The third is to tell them to always use launch the import wizard manually, and not to simply
+double click on the file to open it.&lt;/p&gt;
+
+&lt;p&gt;The fourth, &lt;a href=&quot;http://superuser.com/questions/180964/how-to-open-semicolon-delimited-csv-files-in-us-version-of-excel#answer-420025&quot;&gt;slightly less gross hack&lt;/a&gt;
+to is put &lt;code&gt;sep=,&lt;/code&gt; as the first line in your csv file, which will signal to Excel that you want to explicitly use commas as
+the delimiter.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt;
+
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dialect&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;excel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;kwds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;sep=,&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;linesep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Note: this line will show up in most spreadsheet applications as the first line of your data. So users may have to
+manually delete the first two every time they start working with a file.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;More Fun&lt;/h2&gt;
+
+&lt;p&gt;After some more research, it turns out that Mac Excel simply &lt;a href=&quot;http://answers.microsoft.com/en-us/mac/forum/macoffice2011-macexcel/mac-excel-converts-utf-8-characters-to-underlines/7c4cdaa7-bfa3-41a2-8482-554ae235227b?msgId=c8295574-a053-48a6-b419-51523ce2a247&quot;&gt;does not support UTF-8&lt;/a&gt;
+at all. So forget it ever working there.&lt;/p&gt;
+
+&lt;p&gt;Also, writing BOTH the BOM and the &lt;code&gt;sep=,&lt;/code&gt; will cause Windows Excel to &lt;a href=&quot;http://stackoverflow.com/questions/20395699/sep-statement-breaks-utf8-bom-in-csv-file-which-is-generated-by-xsl#answer-23513342&quot;&gt;forget about the BOM&lt;/a&gt;
+you just specified. So, you basically need to choose whether you want unicode characters to show up correctly, or
+whether you want to have the columns separated automatically.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Designing a Dimensional Schema for a hierarchy that can change over time</title>
+            <link href="/blog/2014/07/18/dimensional-schema-hierarchy-bridge-slowly-changing.html"/>
+            <updated>2014-07-18T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/07/18/dimensional-schema-hierarchy-bridge-slowly-changing</id>
+            <content type="html">&lt;p&gt;I&amp;#39;ve recently been reading about dimensional schemas, aka star schemas. The whole idea seems to be to optimize for fast queries that are also simple to write, at the expense of extra storage in the form of denormalization. In contrast to standard third normal form relational database schema, there is little to no emphasis on how complicated it will be to write data into the system. This trade-off makes sense, as star schemas are employed primarily for data warehouses, where the user will be a business intelligence analyst writing ad-hoc queries to pull analytics, not an ORM layer or another piece of pre-vetted code hitting previously defined and approved indexes.&lt;/p&gt;
+
+&lt;p&gt;The schema itself can be counter intuitive for engineers who have only worked on normal RDMS schemas. First off, data is broken down into fact tables, which are the events that the analytics are aggregating, and dimension tables, which are the attributes that the events will be rolled up by. For example, we are going to use the fact of social media posts as an example, while the dimensions will be the group that the posting user works at in their company, together with that groups place in the company org chart. To up the level of difficulty, we are also going to talk about how to model an org chart that is changing over time.&lt;/p&gt;
+
+&lt;h2&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/hierarchy.png&quot; alt=&quot;hierarchy&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Here we have a somewhat complicated org chart, albeit a small one. Group 10 happens to roll up to both the State and Role hierarchies. This is known as a multi-hierarchy system. The company wants to be able to report on posts made by that group from two different perspectives, depending on the specific report they are trying to run.&lt;/p&gt;
+
+&lt;p&gt;Two particular challenges talked about in the excellent &lt;a href=&quot;http://www.amazon.com/The-Data-WarehouseETL-Toolkit-Techniques/dp/0764567578&quot;&gt;The Data Warehouse ETL Toolkit&lt;/a&gt; are modeling hierarchies (which are essentially trees, and also difficult to model in traditional RDMS systems) and slowly changing dimensions. For example, what happens if a group moves to a different spot in one of the hierarchies, but the company still wants to report on their posts according to the hierarchy they were actually in at the time? More on that later.&lt;/p&gt;
+
+&lt;h2&gt;Test Schema and Data&lt;/h2&gt;
+
+&lt;p&gt;Here is one model for the hierarchy information, aka the Region Bridge Table, or &lt;code&gt;test_region_bridge&lt;/code&gt;. For each of these tables, I will also give the SQL to create the table and insert the same test data.&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;th&gt;parent_distdict_id&lt;/th&gt;
+        &lt;th&gt;parent_distdict_name&lt;/th&gt;
+        &lt;th&gt;child_distdict_id&lt;/th&gt;
+        &lt;th&gt;child_distdict_name&lt;/th&gt;
+        &lt;th&gt;depth_from_parent&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;All Regions&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td&gt;State Hierarchy&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;All Regions&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td&gt;MA&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td&gt;State Hierarchy&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td&gt;MA&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;All Regions&lt;/td&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td&gt;Role Hierarchy&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;All Regions&lt;/td&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td&gt;Sales&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td&gt;Role Hierarchy&lt;/td&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td&gt;Sales&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;All Regions&lt;/td&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td&gt;Eng&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td&gt;Role Hierarchy&lt;/td&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td&gt;Eng&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_region_bridge&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent_district_id&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;parent_district_name&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;varchar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;varchar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;depth_from_parent&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;INSERT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;INTO&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_region_bridge&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent_district_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;parent_district_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;depth_from_parent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+           &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;All Regions&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;State Hierarchy&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;All Regions&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;MA&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;State Hierarchy&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;MA&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;All Regions&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Role Hierarchy&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;All Regions&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Sales&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Role Hierarchy&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Sales&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;All Regions&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Eng&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Role Hierarchy&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Eng&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Notice that every node has a row for each of their children, whether they are direct children (depth 1) or further down. This is intended to make it possible to query for all groups under a certain level without explicitly listing all the children in a dependent sub-query. The parent and child names are given just to make it easier to see what your queries are doing.&lt;/p&gt;
+
+&lt;p&gt;Here is the &lt;code&gt;test_post&lt;/code&gt; table. Notice that it has a &lt;code&gt;group_id&lt;/code&gt;, but not a &lt;code&gt;district_id&lt;/code&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;th&gt;post_id&lt;/th&gt;
+        &lt;th&gt;group_id&lt;/th&gt;
+        &lt;th&gt;text&lt;/th&gt;
+        &lt;th&gt;date&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td&gt;foo&lt;/td&gt;
+        &lt;td&gt;2014-06-01&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td&gt;bar&lt;/td&gt;
+        &lt;td&gt;2014-06-05&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td&gt;bat&lt;/td&gt;
+        &lt;td&gt;2014-06-20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td&gt;baz&lt;/td&gt;
+        &lt;td&gt;2014-06-30&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;far&lt;/td&gt;
+        &lt;td&gt;2014-06-10&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hss_post_id&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;text&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;varchar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;timestamp&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;INSERT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;INTO&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hss_post_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+           &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;foo&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;bar&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-05&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;bat&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-20&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;baz&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-30&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;far&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-10&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Finally, here is the &lt;code&gt;test_group_region_bridge&lt;/code&gt; table, which joins &lt;code&gt;group_id&lt;/code&gt; to &lt;code&gt;district_id&lt;/code&gt;:&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;th&gt;group_id&lt;/th&gt;
+        &lt;th&gt;district_id&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;INSERT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;INTO&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+           &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;Example Queries&lt;/h2&gt;
+
+&lt;p&gt;Given this schema, how would we write a query to answer the question &lt;em&gt;How many posts were there in each region under the Role Hierarchy between Jun 1, 2014 and Jun 30, 2014?&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+       &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent_district_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Role Hierarchy&amp;#39;&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;depth_from_parent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-01&amp;#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-30&amp;#39;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Note that I&amp;#39;m including a &lt;code&gt;depth_from_parent = 1&lt;/code&gt;, otherwise my &lt;code&gt;JOIN&lt;/code&gt; would include a row for any regions that might be under either Sales or Eng, and count posts in the parent regions multiple times.&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;th&gt;child_district_name&lt;/th&gt;
+        &lt;th&gt;COUNT(*)&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Eng&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Sales&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;We could also ask &lt;em&gt;How many posts per day were there under the State Hierarchy?&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+       &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent_district_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;State Hierarchy&amp;#39;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Which results in:&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;th&gt;date&lt;/th&gt;
+        &lt;th&gt;COUNT(*)&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+        &lt;td&gt;2014-06-01&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;2014-06-10&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Also, &lt;em&gt;Which posts were there under both Sales and MA?&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;SElECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent_district_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;All Regions&amp;#39;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Sales&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;INTERSECT&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;SElECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent_district_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;All Regions&amp;#39;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;MA&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This one is tricky, but shows the flexibility of SQL. It returns the correct single row.&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;th&gt;post_id&lt;/th&gt;
+        &lt;th&gt;group_id&lt;/th&gt;
+        &lt;th&gt;text&lt;/th&gt;
+        &lt;th&gt;date&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;far&lt;/td&gt;
+        &lt;td&gt;2014-06-10&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2&gt;Taking it up a notch&lt;/h2&gt;
+
+&lt;p&gt;Now, I promised to address what happens when we also need to account for changes in the hierarchy over time. For example, what if group 11 moved from district 7 (Eng) to district 6 (Sales) on 2014-06-18, and then moved back to district 7 (Eng) on 2014-06-22? There should still be four posts, but now there were three in Sales and one in Eng.&lt;/p&gt;
+
+&lt;p&gt;In order to record the relevant dates, I&amp;#39;ll add &lt;code&gt;change_effective&lt;/code&gt; and &lt;code&gt;change_end&lt;/code&gt; dates to the table, as well as a &lt;code&gt;change_current&lt;/code&gt; to track whether this is the current state of the group. Here is our new &lt;code&gt;test_group_region_bridge&lt;/code&gt; table.&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;th&gt;group_id&lt;/th&gt;
+        &lt;th&gt;district_id&lt;/th&gt;
+        &lt;th&gt;change_effective&lt;/th&gt;
+        &lt;th&gt;change_end&lt;/th&gt;
+        &lt;th&gt;change_current&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td&gt;2000-01-01&lt;/td&gt;
+        &lt;td&gt;2100-01-01&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td&gt;2000-01-01&lt;/td&gt;
+        &lt;td&gt;2100-01-01&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td&gt;2000-01-01&lt;/td&gt;
+        &lt;td&gt;2100-01-01&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td&gt;2000-01-01&lt;/td&gt;
+        &lt;td&gt;2100-01-01&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td&gt;2000-01-01&lt;/td&gt;
+        &lt;td&gt;2014-06-17&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td&gt;2014-06-18&lt;/td&gt;
+        &lt;td&gt;2014-06-21&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td&gt;2014-06-22&lt;/td&gt;
+        &lt;td&gt;2100-01-01&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Notice that I&amp;#39;m using dates in the far past and far future to denote the beginning of time and the end of time, respectively. This is to make queries easier to write.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;integer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;change_effective&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;timestamp&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;change_end&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;timestamp&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;change_current&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;INSERT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;INTO&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;change_effective&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;change_end&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;change_current&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+           &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2000-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2100-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2000-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2100-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2000-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2100-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2000-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2100-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2000-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-17&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-18&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-21&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;UNION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-22&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;2100-01-01&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Now we can run the same region count query as before, but have it take into account that fact that the post has to have been made while the group was still in that region. You can also use the same schema to fall back to the previous behavior of looking at just the current state of the org chart with &lt;code&gt;change_current = 1&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+       &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent_district_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Role Hierarchy&amp;#39;&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;depth_from_parent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-01&amp;#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;2014-06-30&amp;#39;&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;change_effective&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;change_end&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;Smoothing out the kinks&lt;/h2&gt;
+
+&lt;p&gt;You may have noticed that these queries are all repeating the same &lt;code&gt;JOIN&lt;/code&gt; syntax. If you think this is going to be a common query pattern, you can create a view as a shortcut.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;VIEW&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post_historical_region&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+       &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent_district_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+       &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+       &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_group_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_region_bridge&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;district_id&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;change_effective&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;change_end&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This will make your previous query much simpler.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+       &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;test_post_historical_region&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;child_district_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Sales&amp;#39;&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;depth_from_parent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This also abstracts the existence of the &lt;code&gt;change_*&lt;/code&gt; fields from the user. The hard part is communicating what the view is doing, so query authors know when to use it, and when &lt;em&gt;NOT&lt;/em&gt; to use it. If you want to maximize the performance of the system at the cost of extra storage, you can make this a materialized view.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Enabling SOLR autocommit with a custom Haystack backend</title>
+            <link href="/blog/2014/07/02/haystack-solr-autocommit.html"/>
+            <updated>2014-07-02T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/07/02/haystack-solr-autocommit</id>
+            <content type="html">&lt;p&gt;By default &lt;a href=&quot;http://haystacksearch.org/&quot;&gt;Django Haystack&lt;/a&gt; makes updates to your Solr index available for
+searching immediately. It does this in the simplest way possible, it commits every single update individually.
+That can be quite slow. I have an index with 35 million records, and under heavy write load commits of 1,000
+records can slow down and take up to 5 seconds for each chunk. In extreme cases, Solr can refuse to accept
+that much write load at once, and throw an exception like the following:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-xml&quot; data-lang=&quot;xml&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;response&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;lst&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;responseHeader&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;int&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;status&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;503&lt;span class=&quot;nt&quot;&gt;&amp;lt;/int&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;int&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;QTime&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;1492&lt;span class=&quot;nt&quot;&gt;&amp;lt;/int&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/lst&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;lst&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;error&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;str&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;msg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Error opening new searcher. exceeded limit of maxWarmingSearchers=2, try again later.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/str&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;int&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;code&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;503&lt;span class=&quot;nt&quot;&gt;&amp;lt;/int&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/lst&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/response&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Investigating this error, I turned up a &lt;a href=&quot;http://stackoverflow.com/questions/7512945/solr-error-opening-new-searcher-exceeded-limit-of-maxwarmingsearchers-2-try&quot;&gt;Stackoverflow post&lt;/a&gt;
+basically saying to not make so many commits. That turned up a &lt;a href=&quot;https://github.com/toastdriven/django-haystack/pull/624&quot;&gt;Haystack pull request&lt;/a&gt;
+to make manual commits optional.&lt;/p&gt;
+
+&lt;p&gt;You can see the basic issue by looking at the logs that Haystack creates each time it issues a write request to the
+Solr REST API:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;Finished &lt;span class=&quot;s1&quot;&gt;&amp;#39;http://localhost:8080/solr/my_index/update/?commit=true&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;post&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; with body &lt;span class=&quot;s1&quot;&gt;&amp;#39;u&amp;#39;&lt;/span&gt;&amp;lt;add&amp;gt;...&lt;span class=&quot;err&quot;&gt;&amp;#39;&lt;/span&gt; in 0.010 seconds.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;As of Solr 4.0, we have much more performant options for bulk indexing. A &lt;a href=&quot;http://wiki.apache.org/solr/NearRealtimeSearch&quot;&gt;common setup&lt;/a&gt;
+is to use &lt;code&gt;autocommit&lt;/code&gt; (set by default to 15 seconds) and abstain from manually committing by passing &lt;code&gt;commit=false&lt;/code&gt; on
+the REST API URL. Though Haystack supports passing a commit boolean to the various back-end implementations of &lt;code&gt;update&lt;/code&gt;,
+&lt;code&gt;remove&lt;/code&gt; and &lt;code&gt;clear&lt;/code&gt;, this parameter is never explicitly set. Instead, you can &lt;a href=&quot;http://www.wellfireinteractive.com/blog/custom-haystack-elasticsearch-backend/&quot;&gt;implement your own&lt;/a&gt;
+search back-end subclass to pass this value.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;haystack.backends.solr_backend&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SolrEngine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SolrSearchBackend&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;AutoCommitSolrSearchBackend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SolrSearchBackend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;iterable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;nb&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AutoCommitSolrSearchBackend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;iterable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;obj_or_string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;nb&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AutoCommitSolrSearchBackend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;obj_or_string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;clear&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;models&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;nb&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AutoCommitSolrSearchBackend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;clear&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;models&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;AutoCommitSolrEngine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SolrEngine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;sd&quot;&gt;&amp;#39;&amp;#39;&amp;#39; the built-in Solr engine in Haystack performs a manual commit after each update/add/remove/clear. This&lt;/span&gt;
+&lt;span class=&quot;sd&quot;&gt;    is really slow. Solr is configured by default to auto-commit changes every 15 seconds, so there is no need to&lt;/span&gt;
+&lt;span class=&quot;sd&quot;&gt;    commit manually on every update.&lt;/span&gt;
+&lt;span class=&quot;sd&quot;&gt;    &amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;backend&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AutoCommitSolrSearchBackend&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Then you can use this new &lt;code&gt;AutoCommitSolrEngine&lt;/code&gt; in your &lt;code&gt;HAYSTACK_CONNECTIONS&lt;/code&gt; setting.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;HAYSTACK_CONNECTIONS&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+     &lt;span class=&quot;s&quot;&gt;&amp;#39;default&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+         &lt;span class=&quot;s&quot;&gt;&amp;#39;ENGINE&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;myapp.serach.AutoCommitSolrEngine&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+         &lt;span class=&quot;s&quot;&gt;&amp;#39;URL&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;http://localhost:8080/solr/my_index&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: By default, indexed items will not show up in searches right away. That&amp;#39;s what soft-commit is for.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hard commits are about durability, soft commits are about visibility. &lt;a href=&quot;http://searchhub.org/2013/08/23/understanding-transaction-logs-softcommit-and-commit-in-sorlcloud/&quot;&gt;Understanding Transaction Logs, Soft Commit and Commit in SolrCloud - Erick Erickson&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To make your auto-committed items available to search in a timely fashion, you must set a &lt;code&gt;autoSoftCommit.maxTime&lt;/code&gt;
+in your Solr config. This is &lt;em&gt;NOT&lt;/em&gt; set by default.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-xml&quot; data-lang=&quot;xml&quot;&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- softAutoCommit is like autoCommit except it causes a&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;         &amp;#39;soft&amp;#39; commit which only ensures that changes are visible&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;         but does not ensure that data is synced to disk.  This is&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;         faster and more near-realtime friendly than a hard commit.&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;      --&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;autoSoftCommit&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;maxTime&amp;gt;&lt;/span&gt;1000&lt;span class=&quot;nt&quot;&gt;&amp;lt;/maxTime&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/autoSoftCommit&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Alternately, you can set &lt;code&gt;autoCommit.openSearcher&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt;, which will cause a new searcher worker to be instantiated
+every time you auto-commit. This could slow down the first searches that come in after an auto commit, however.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Debugging an IE7 browser crash (manual git bisect)</title>
+            <link href="/blog/2014/06/20/debugging-ie7-crashes.html"/>
+            <updated>2014-06-20T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/06/20/debugging-ie7-crashes</id>
+            <content type="html">&lt;p&gt;Every once in a while, you have to put in a heroic effort to diagnose a bug. When
+you finally figure it out, you want to run around the office singing &amp;quot;We are the
+champions&amp;quot;, even if it turns out to be a trivial issue. Because that doesn&amp;#39;t mean
+it took a trivial amount of effort.&lt;/p&gt;
+
+&lt;p&gt;Recently I had a bug report cross my desk that our web app was crashing IE7.
+Luckily IE7 is only about 3% of our overall userbase. As of May 2014, it&amp;#39;s only
+&lt;a href=&quot;http://www.w3schools.com/browsers/browsers_explorer.asp&quot;&gt;about .2% of global browser market share&lt;/a&gt;,
+but we have a lot of enterprise customers who are slower to upgrade. Regardless,
+definitely a high severity bug.&lt;/p&gt;
+
+&lt;p&gt;As an aside, I find browser crashes to be ridiculous. I know this browser was
+written back in the dark ages of 2005, but still. If you&amp;#39;re implementing a browser,
+you know you are basically going to be taking random markup and javascript from
+essentially an untrusted user. You would think you would be as meticulous as
+possible to trap every conceivable exception.&lt;/p&gt;
+
+&lt;p&gt;But no. In the case of a browser crash, you don&amp;#39;t get a stack trace. You don&amp;#39;t even
+get the dreaded &amp;quot;Object Expected&amp;quot; error (the single most useless error of all time).
+What puny developer tools that Microsoft deigned to provide back in 2005 are of
+absolutely no use. Instead, all you see is a white screen and the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/ie7_not_responding.png&quot; alt=&quot;ie7 not responding&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;So it begins. In this case, I assume that we were not crashing IE7 at some point in
+the recent past. Otherwise, we would have presumably received this bug report
+earlier.&lt;/p&gt;
+
+&lt;p&gt;The first step is always to get a reproducible. I can reproduce using my trusty
+IE7 VirtualBox image provisioned from &lt;a href=&quot;https://github.com/xdissent/ievms&quot;&gt;xdissent/ievms&lt;/a&gt;.
+Knowing I&amp;#39;m in for a long haul, I also make some effort to get my reproducible steps
+down to the smallest quickest nugget I can. First, I create a shortcut on my Windows
+desktop called &amp;quot;clear cache&amp;quot;, with the following Target: &lt;code&gt;RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 255&lt;/code&gt;.
+I know from experience that if you don&amp;#39;t clear your cache between tests, you will be
+hunting phantom cached files for hours. I make another shortcut with a direct link
+to the page that crashes on my dev box.&lt;/p&gt;
+
+&lt;p&gt;I proceed to spend about an hour deleting random chunks of suspect code to see if I
+can get it to stop crashing. If I&amp;#39;m successful, I start putting some of the deleted
+code back in until it crashes again. This is a slow process. Sometimes it helps to
+go old school and put actual &lt;code&gt;alert()&lt;/code&gt; calls in between suspect lines. I finally
+narrow it down to a require.js call to import a completely different file. Basically,
+I have to start over on a new file.&lt;/p&gt;
+
+&lt;p&gt;So I change tactics and start what is essentially a binary search through our git
+history to locate the exact commit where this occurs. &lt;em&gt;Note: if you can repo your
+issue purely on the command line, you should use git bisect for this&lt;/em&gt;.  I start
+rolling back 10, 100, 1000 commits until I get a working build. I have to manually
+refresh a browser each time.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git checkout upstream/master~10
+git checkout upstream/master~100
+git checkout upstream/master~1000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;At 1,000 commits, I get a working build again. So I try 500 commits ago. Not working.
+750 commits. Working. 625 commits, etc... After a surprisingly few iterations, I&amp;#39;m
+left with a small set of potential breaking commits, which I manually browse through until
+I see this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/ie7_extra_comma.png&quot; alt=&quot;ie7 extra comma&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;From experience, I suspected all along that this was likely either an unclosed HTML
+tag in a javascript template, or an extra comma. I have seen both &lt;a href=&quot;http://blog.bottomlessinc.com/2010/01/ie-bug-dont-put-extra-commas-in-your-js-arrays/&quot;&gt;crash old versions&lt;/a&gt;
+of IE. What&amp;#39;s super-frustrating is that this is actually something that our automation
+catches:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;jshint&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bad_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;js&lt;/span&gt;
+&lt;span class=&quot;kr&quot;&gt;static&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;js&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bad_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;js&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;611&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;col&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;45&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Extra&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;comma&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;breaks&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;older&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;versions&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;IE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;But we rely on individual engineers to install the automation and run it, which they
+can also opt-out on for individual commits and files. In any case, it turned out to be
+a one character fix after about 3 hours of work. In the future, I would save some
+time by just running jshint on the entire repo.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Rich client side web apps gone too far!</title>
+            <link href="/blog/2014/05/30/rich-client-side-web-apps-gone-too-far.html"/>
+            <updated>2014-05-30T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/05/30/rich-client-side-web-apps-gone-too-far</id>
+            <content type="html">&lt;h2&gt;I have seen some Javascript in my time...&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#39;ve been getting paid to write web apps using Javascript for about 12 years. I
+wrote a single page web based email client in 2003, years before the launch of
+Gmail. I wrote a javascript instant message client for IE 5.5. I wrote a full
+window manager inside the browser complete with a dock using IFRAMEs.&lt;/p&gt;
+
+&lt;p&gt;All of that stuff was extremely painful to get working back in the dark ages
+before prototype and jQuery. One browser in particular absolutely sucked to write
+Javascript for. Never mind debug tools, we didn&amp;#39;t even have stack traces! About a
+dozen times a day you would get an error that would just say &amp;quot;Object doesn&amp;#39;t
+support this property or method&amp;quot;. That was literally it, no line number or
+anything.&lt;/p&gt;
+
+&lt;p&gt;All this is to say that Javascript got a bad reputation. A lot of that was not
+due to the language, but the platform. In recent years, the platform has gotten
+a lot of love as we realized we are going to be stuck with this language. Tooling
+has smoothed out remaining browser inconsistencies. But don&amp;#39;t fool yourself; the
+language still sucks.&lt;/p&gt;
+
+&lt;h2&gt;... and I don&amp;#39;t like what I see&lt;/h2&gt;
+
+&lt;p&gt;It&amp;#39;s just not a well designed language. Basic object comparison frequently results
+in &lt;a href=&quot;http://wtfjs.com/&quot;&gt;mind-blowing violations of the principle of least astonishment&lt;/a&gt;.
+We have piled dozens of different and mutually exclusive hacks on top of the
+language to support name spacing. To this day, I still stumble over the fact that
+&lt;code&gt;this&lt;/code&gt; will frequently not be pointing to what you think it is.&lt;/p&gt;
+
+&lt;p&gt;Which is why it is so unfortunately that this is the defacto language of the future.
+It&amp;#39;s the only option for cross browser client side code. Literally every other
+option does not work all browsers, or is just basically a language that&amp;#39;s compiled
+down to Javascript. Good luck debugging that.&lt;/p&gt;
+
+&lt;p&gt;To add insult to injury, web development has become more and more dominated by
+rich client side work over the last 5 years. Javascript used to be a tool that
+you used as sparingly as possible, sprinkling just the barest hint of dynamic
+behavior where it was absolutely necessary. Now it&amp;#39;s common to start a new project
+and assume that 50% or more of the code will be Javascript.&lt;/p&gt;
+
+&lt;h2&gt;At least make your fancy app act like a web page&lt;/h2&gt;
+
+&lt;p&gt;Of course, everyone wants web apps that are responsive and interactive. For apps
+like the aforementioned instant messenger and email clients, that makes total
+sense. But 90% of the stuff out there does not fall under the same use case. Most
+apps that are heavily Javascript based are just doing it wrong, in my opinion.
+That&amp;#39;s not how a web browser is &lt;em&gt;supposed&lt;/em&gt; to work, a distinction obviously lost on
+the authors of these applications when they continually break basic functionality
+that we used to be able to take for granted.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m sure you&amp;#39;ve seen sites that refuse to record their state in the URL. Oh thanks,
+I didn&amp;#39;t want to bookmark this anyway. Too often these days I can&amp;#39;t even tab through
+form fields. If for some bat-shit crazy reason you find yourself using editable
+&lt;code&gt;DIV&lt;/code&gt; elements instead of actual form inputs, please at least remember to provide
+the functionality we have been using since the 80s.&lt;/p&gt;
+
+&lt;p&gt;Then there are willful substitutions of the developer&amp;#39;s judgement for that of the user.
+I have never actually wanted a modal window to appear. Every time I see one, I just think
+&amp;quot;well, fuck you too&amp;quot;. Maybe you have alt-clicked on a link somewhere
+only to have the link open in the current tab instead, or perhaps not open at all.
+Presumably there was a good reason to re-implement the wheel by creating your own
+special thing that&amp;#39;s text you can click on, but that is not a real &lt;code&gt;A&lt;/code&gt; element. NOT!&lt;/p&gt;
+
+&lt;p&gt;The 10th circle of hell should be for web developers who break the back button.&lt;/p&gt;
+
+&lt;h2&gt;How we ended up here&lt;/h2&gt;
+
+&lt;p&gt;My pet theory is that the rise of dominance of rich client side apps is actually
+mostly an accident of history. Right around 2005, with the launch of Rails and Django,
+we had finally come up with ways to write server-side web apps that were not like
+sticking a fork in your eye. We finally had separation of controller and view, along
+with features like flash messages, session variables and form validation which
+made it easy to implement a rich interaction with state persisted between server
+side renders. On broadband, the server round-trips were so fast it felt like you
+were serving up these dynamic pages from your local machine.&lt;/p&gt;
+
+&lt;p&gt;But at the same time, mobile was just starting to come on. All these pages we were
+writing that rendered quickly on broadband absolutely sucked on mobile. No matter
+how fast your server was, latency was killing you on these shit early wireless
+networks. But we had a few years of AJAX under our belts, so we knew we could
+deliver the illusion of responsiveness by simple not reloading the page.&lt;/p&gt;
+
+&lt;p&gt;I remember trying to write an app for IE7 that was 100% rendered on the client
+side from a pure JSON server backend. That shit was ridiculously slow back in the
+day on a broadband connected PC simply because IE7 could not render a decently
+complicated HTML chunk into a previously rendered DOM without going out to lunch
+for several hundred milliseconds doing god knows what, while at the time time
+completely locking the UI of the browser.&lt;/p&gt;
+
+&lt;p&gt;But it was actually &lt;em&gt;better&lt;/em&gt; on mobile. The latency was such a killer that even
+though phones were even slower at rendering Ajax responses, the over-all UX felt
+more responsive. So we started boldly going into the future of 100% javascript
+apps.&lt;/p&gt;
+
+&lt;p&gt;Then a funny thing happened. Mobile users roundly rejected web apps. These days,
+you are an absolute second class citizen on mobile if you don&amp;#39;t have a native app.
+Even Apple got this wrong. Their initial plan for the iPhone was to only have web
+apps at the platform for third-party developers. IMO, for all our progress in
+the last 5 years, wireless networks and phones are still shit, at least compared
+to where we hope they will be in 10 years. Maybe then we will finally be able to
+deliver write once run anywhere mobile web apps.&lt;/p&gt;
+
+&lt;h2&gt;Back to the future&lt;/h2&gt;
+
+&lt;p&gt;The latest generation of developers doesn&amp;#39;t even realize there is another way to
+write web apps. Instead of writing just server side code, HTML and CSS, it&amp;#39;s accepted
+that we also need to write a JSON REST API, client side templates, duplicate client
+side models and a whole mess of Javascript view code, hopefully on some kind of
+sane framework.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m here to tell you that you&amp;#39;re doing a lot more work this way. Most apps can
+provide the same experience with about 5% of the client side code. Plus, you&amp;#39;re
+slowing down your development team throughput significantly. All that extra
+complexity is not free. All of a sudden you have to hire people who specialize
+in front-end and people who specialize in back-end. It used to be that virtually
+all web devs could do both well.&lt;/p&gt;
+
+&lt;p&gt;The key to delivering awesome client server HTML page render apps is graceful
+degradation, also called &lt;a href=&quot;http://en.wikipedia.org/wiki/Progressive_enhancement&quot;&gt;progressive enhancement&lt;/a&gt;.
+The basic idea is that your app should be fully functional even if Javascript is
+disabled. This also is the thing that saves your ass when your giant blob of
+minified JS is totally broken; at least the app still works.&lt;/p&gt;
+
+&lt;p&gt;Now if you deliver apps this way, it is absolutely critical that you serve
+page renders fast. With client-side apps this is not as critical, which means
+people have been getting lazy on this.&lt;/p&gt;
+
+&lt;p&gt;Besides development speed, you get a host of other benefits. Code is less
+complicated. I have seen over and over again in my work that UI event code tends
+to be the hardest to write and maintain. If it&amp;#39;s not total spaghetti, you&amp;#39;re doing
+pretty well. Don&amp;#39;t write that category of code if you don&amp;#39;t have to. Your app
+will be easier to debug; no more hunting down what view is calling what API to
+deliver what data to your browser in a given HTML chunk. &lt;em&gt;Side note: for the love
+of god put model IDs and other human-readable attributes in your client-side
+generated DOM if you value your sanity&lt;/em&gt;. You also reduce the compatibility
+issues between browsers to relatively simple CSS differences.&lt;/p&gt;
+
+&lt;p&gt;Now get off my lawn!&lt;/p&gt;
+
+&lt;p&gt;&amp;gt; END RANT &amp;lt;&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Distributing Vagrant base boxes securely</title>
+            <link href="/blog/2014/05/18/vagrant-authenticated-private-box-urls.html"/>
+            <updated>2014-05-18T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/05/18/vagrant-authenticated-private-box-urls</id>
+            <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.vagrantup.com&quot;&gt;Vagrant&lt;/a&gt; is typically used to provide local, uniform and &lt;em&gt;repeatable&lt;/em&gt; development virtual machines. Repeatable is given little importance in the documentation, but since I&amp;#39;ve been using vagrant, I&amp;#39;ve been surprised at just how often I end up destroying and re-creating my boxes.&lt;/p&gt;
+
+&lt;h1&gt;Why custom base boxes&lt;/h1&gt;
+
+&lt;p&gt;Our typical provisioning takes about 30 minutes. Half of that is downloading and installing &lt;code&gt;apt&lt;/code&gt; dependencies, and half is downloading, compiling (ugh) and installing &lt;code&gt;pip&lt;/code&gt; dependencies for Python. What&amp;#39;s worse, it&amp;#39;s not particularly robust; compiling Python libraries will fail approximately 10% of the time. Just enough to be really annoying.&lt;/p&gt;
+
+&lt;p&gt;Base boxes to the rescue. The included Ubuntu boxes &lt;code&gt;precise32&lt;/code&gt; and &lt;code&gt;precise64&lt;/code&gt; are about 300MB, and contain only the operating system and minimal other dependencies. But you can build your own base box files from a previously configured virtual machine.&lt;/p&gt;
+
+&lt;h1&gt;Shrinking images&lt;/h1&gt;
+
+&lt;p&gt;Running the standard &lt;code&gt;vagrant package --output /tmp/mydev.box&lt;/code&gt; command creates a base box of 2.5GB in my case. How did we go from 300MB to 2.5GB? It&amp;#39;s actually mostly bloat. You can save quite a bit of space by running &lt;a href=&quot;https://gist.githubusercontent.com/adrienbrault/3775253/raw/da59136ef0414af151b917bd25a06882f0107947/purge.sh&quot;&gt;this gist&lt;/a&gt; inside your VM &lt;em&gt;before&lt;/em&gt; you package it.&lt;/p&gt;
+
+&lt;p&gt;In my case, this trimmed it down to 800MB.&lt;/p&gt;
+
+&lt;h1&gt;Do you want your dev image public?&lt;/h1&gt;
+
+&lt;p&gt;In our case, we didn&amp;#39;t want to make this image publicly available. Although the box does not have actual code on it (it&amp;#39;s loaded later via NFS), it &lt;em&gt;does&lt;/em&gt; have development API keys/passwords. Why? A while back we removed these from the github repo and moved them into &lt;code&gt;/etc&lt;/code&gt; config files. Besides, I&amp;#39;m not sure we want to make anything about our service config public, either.&lt;/p&gt;
+
+&lt;p&gt;This is a problem because Vagrant assumes your &lt;code&gt;box_url&lt;/code&gt; is going to be using HTTP/HTTPS. It does support Basic Authentication, but that&amp;#39;s hardly secure.&lt;/p&gt;
+
+&lt;h1&gt;What about Vagrant cloud?&lt;/h1&gt;
+
+&lt;p&gt;Vagrant is starting a service called &lt;a href=&quot;https://vagrantcloud.com/&quot;&gt;Vagrant Cloud&lt;/a&gt; aimed precisely at this use case. However, it&amp;#39;s in early beta, and doesn&amp;#39;t support actually hosting files at this stage. You need to upload your box somewhere else and give them a URL, so you&amp;#39;re back to square one.&lt;/p&gt;
+
+&lt;h1&gt;Plugins&lt;/h1&gt;
+
+&lt;p&gt;I could not find a vagrant plugin for my use case, either. There is an interesting &lt;a href=&quot;https://github.com/natlownes/vagrant-fog-box-storage&quot;&gt;vagrant-fog-box-storage&lt;/a&gt; plugin that allows you to download a box image off S3. However, it doesn&amp;#39;t work with Vagrant versions past 1.1. Plus, I&amp;#39;m pretty sure I don&amp;#39;t want to include AWS access tokens in my Vagrantfile.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m also &lt;em&gt;very&lt;/em&gt; sure I don&amp;#39;t want to write by own plugin in ruby.&lt;/p&gt;
+
+&lt;h1&gt;Vagrant actually uses cURL&lt;/h1&gt;
+
+&lt;p&gt;While searching around, I randomly ran into the vagrant &lt;a href=&quot;https://github.com/mitchellh/vagrant/blob/master/lib/vagrant/util/downloader.rb&quot;&gt;download code&lt;/a&gt;, where I quickly realized they were using cURL to do the actual download. Great! A little known feature of cURL is that it supports many different protocols: &lt;code&gt;dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtsp scp sftp smtp smtps telnet tftp&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;This actually turns out to be a &lt;a href=&quot;https://github.com/mitchellh/vagrant/pull/1041&quot;&gt;concious decision&lt;/a&gt; to support scp. All you have to do is use a scp URL like &lt;code&gt;scp://my-server:/tmp/dev.box&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h1&gt;cURL doesn&amp;#39;t have this option by default in OSX&lt;/h1&gt;
+
+&lt;p&gt;One big problem. Our development machines are all Apples, and the &lt;code&gt;curl&lt;/code&gt; command built-in to OSX Mavericks is not compiled with the scp option. So we turn to homebrew.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;brew install curl --with-ssh
+brew link curl --force&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: This will over-ride the built-in curl, which is fairly dangerous. If the arguments don&amp;#39;t match something another app on your system is expecting, things could very well break. &lt;a href=&quot;http://stackoverflow.com/questions/4691403/keg-only-homebrew-formulas&quot;&gt;Learn more.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1&gt;Example vagrant file&lt;/h1&gt;
+
+&lt;p&gt;Using a scp URL in your &lt;code&gt;Vagrantfile&lt;/code&gt; is simple:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# -*- mode: ruby -*-&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;Vagrant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;configure&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vm&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hostname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;dev-vagrant&amp;quot;&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vm&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;box&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;dev&amp;quot;&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vm&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;box_url&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;scp://my-server:/tmp/dev.box&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1&gt;Future Work&lt;/h1&gt;
+
+&lt;p&gt;Ideally, Vagrant itself would optionally call &lt;code&gt;scp&lt;/code&gt; directly to side-step the OSX issue. It would also be ideal if they supported S3 directly, as well. In fact, just let us write our own shell command/script to download the file.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Better debugging through healthy living</title>
+            <link href="/blog/2014/05/09/better-debugging.html"/>
+            <updated>2014-05-09T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/05/09/better-debugging</id>
+            <content type="html">&lt;p&gt;Debugging code is more of an art than a science. It&amp;#39;s an art form that you will have plenty of time to practice as a software engineer.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Reworking defects in requirements, design, and code consumes 40-50% of the total cost of software development. - &lt;a href=&quot;http://programmers.stackexchange.com/questions/91758/debugging-facts-and-statistics&quot;&gt;Improving Software Productivity&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Fallacies about bugs&lt;/h2&gt;
+
+&lt;p&gt;Bugs are failures. Failures to predict a scenario, or failures in assuming that this case would never happen. The first step is admitting that you have a problem. Related cognitive dissonance:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&amp;quot;It&amp;#39;s not my fault.&amp;quot; False. 99% of the time, it is your fault.&lt;/li&gt;
+&lt;li&gt;&amp;quot;It worked yesterday, and nothing changed.&amp;quot; Yes, something changed. You just don&amp;#39;t know what. It could be a change in data or a change in a dependency, but something changed.&lt;/li&gt;
+&lt;li&gt;&amp;quot;It must be the tools/frameworks/universe out to get me.&amp;quot; See #1. Don&amp;#39;t attribute to malice what can be explained by your own stupidity.&lt;/li&gt;
+&lt;li&gt;&amp;quot;It&amp;#39;s a bug, but it&amp;#39;s not MY fault&amp;quot;. Famous last words.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Debugging Mindset&lt;/h2&gt;
+
+&lt;p&gt;Don&amp;#39;t go into a debugging session looking to assign blame to someone else (see #4). Most bugs are caused by assumptions, your first task is to consciously question the assumptions are you making as you read the code. Don&amp;#39;t assume a variable has the value you think it does. Don&amp;#39;t assume the database returned the data you&amp;#39;re expecting. Verify. Contrary thinking is useful here.&lt;/p&gt;
+
+&lt;p&gt;This includes being skeptical of the assumptions made in the original bug report. Whether it&amp;#39;s from a customer or a QA person or another developer, follow the creed &amp;quot;trust, but verify&amp;quot;.&lt;/p&gt;
+
+&lt;h2&gt;Before you start&lt;/h2&gt;
+
+&lt;p&gt;In fact, before you even begin looking at code, make sure you can reproduce the issue. 98% of the time, a bug should have a repo case. Every issue can be reproduced, it&amp;#39;s just a matter of isolating the variables. That said, in the 2% case where coming up with a repo case is too difficult, it&amp;#39;s reasonable to start debugging without one. But you should expend a serious amount of effort yourself trying to reproduce it before you give up on a repo case. After all, if you have no repo case, how are you going to know if you fixed it?&lt;/p&gt;
+
+&lt;p&gt;Once you have a repo case, trim it down to the bare essentials. Try reproducing the issue without some of the initial steps, and see if it still happens. If so, omit those steps. For more specific particulars of the repo case, make sure that it does not also happen in the general case; those too are erroneous details that can cloud your thinking.&lt;/p&gt;
+
+&lt;h2&gt;Techniques&lt;/h2&gt;
+
+&lt;p&gt;The basic debugging stages, in order, are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Reproduce. Don&amp;#39;t skip this step. Trust but verify.&lt;/li&gt;
+&lt;li&gt;Gathering info (stack traces, logs, screen shots, IDs, accounts, etc.)&lt;/li&gt;
+&lt;li&gt;Isolating the code causing the problem. It was OK up until a particular line of code.&lt;/li&gt;
+&lt;li&gt;Fix it. Usually this is easy after you know what the problem is.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Stack traces are you best friend here. In many cases, they are all you need to isolate the issue to a single line of code. At worst, you&amp;#39;ve isolated the issue to something that calls this code. But if you don&amp;#39;t have a stack trace, what do you do?&lt;/p&gt;
+
+&lt;p&gt;Step through the code. This is boring, but extremely time efficient. It&amp;#39;s the fastest way to validate your assumptions. You can speed things up significantly with some intelligent guessing about your initial breakpoint. This is where your intuition comes in.&lt;/p&gt;
+
+&lt;p&gt;Sometimes you can&amp;#39;t step through the code. Maybe you&amp;#39;re in an older web browser that doesn&amp;#39;t support breakpoints. Maybe you&amp;#39;re trapped in 1999 debugging PHP 3. Whatever. You can simulate stepping through the code with logging, print statements, alert() calls, etc.&lt;/p&gt;
+
+&lt;p&gt;A couple of other techniques that sometimes come in handy:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Binary search/bisect. If you&amp;#39;ve isolated it down to a piece of offending code that&amp;#39;s fairly long, you can try deleting half of the code and see if the problem still happens. If it does, you know the problem was with the other half. Repeat. Of course, this is only applicable in the cases where deleting a large chunk leaves you with a viable running program.&lt;/li&gt;
+&lt;li&gt;Rubber duck debugging. This is a good one. If you&amp;#39;re ever really stuck, trying explaining the problem to someone else. If no one is around, try explaining it to an inanimate object. You might be surprised how often this leads you to a solution.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Debugging Tools&lt;/h2&gt;
+
+&lt;p&gt;What tools should you use when debugging? Anything you can get your hands on. Graphical IDEs with debuggers are great, but not necessary. Their primary utility is that they let you &amp;quot;explore&amp;quot; the variables in scope, and evaluate expressions. You can get the same thing out of a good interactive interpreter.&lt;/p&gt;
+
+&lt;p&gt;No matter which tools you use, you want to get your &amp;quot;debug cycle&amp;quot; as fast as possible. This is the time it takes between you changing the code and running through the entire repo case to see if it&amp;#39;s still happening. Again, the ultimate short debug cycle is being able to repo the issue with a single statement in an interactive interpreter.&lt;/p&gt;
+
+&lt;p&gt;If you have used a language with an interactive shell such as python, node, etc, you will miss them when you&amp;#39;re using a language that doesn&amp;#39;t have them such as Java, C#, etc.&lt;/p&gt;
+
+&lt;h2&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;Personally, I feel that generalists are better at debugging. The more pieces of the software stack you understand, the quicker you will be able to isolate where the issue is occurring. General experience in a particular code base or stack will similarly speed your debugging. Unfortunately, both of those skills simply take time to develop.&lt;/p&gt;
+
+&lt;h2&gt;Prevention&lt;/h2&gt;
+
+&lt;p&gt;Because debugging does take a significant amount of time, anything you can do to reduce it will pay off. Writing good unit tests are huge here. They will help you think about the assumptions you are making when you&amp;#39;re writing the code, as well as force you to explicitly deal with invalid assumptions.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Loading classes from modules with reflection in Python (imp module)</title>
+            <link href="/blog/2014/04/23/python-imp-examples.html"/>
+            <updated>2014-04-23T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/04/23/python-imp-examples</id>
+            <content type="html">&lt;p&gt;For a dynamic language, it&amp;#39;s more difficult than it needs to be to import a module dynamically in Python. It&amp;#39;s very easy to just &lt;code&gt;from foo import bar&lt;/code&gt;, but what if you want to load a list of things and all you have is a string representation of each one, for example &lt;code&gt;foo.bar&lt;/code&gt;?&lt;/p&gt;
+
+&lt;p&gt;One use case for this is for configuration. Django uses this pattern to initialize apps via its &lt;code&gt;INSTALLED_APPS&lt;/code&gt; setting. For example, the default settings looks like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;INSTALLED_APPS&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;django.contrib.admin&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;django.contrib.auth&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;django.contrib.contenttypes&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;django.contrib.sessions&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;django.contrib.messages&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;django.contrib.staticfiles&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;polls&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;At some point, Django does the equivalent of a &lt;code&gt;from django.contrib import admin&lt;/code&gt; and then starts poking around for &lt;code&gt;urls&lt;/code&gt; and &lt;code&gt;models&lt;/code&gt; modules. I&amp;#39;m guessing this is done primarily to avoid circular import issues; if Django imports your apps as normal, but your apps turn around and import Django, then you&amp;#39;ve got a problem.&lt;/p&gt;
+
+&lt;p&gt;I wanted to reproduce this pattern myself, and it was a little harder than I expected. Python provides an &lt;a href=&quot;https://docs.python.org/2/library/imp.html&quot;&gt;imp&lt;/a&gt; for just this occasion. But, from the docs:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This function does not handle hierarchical module names (names containing dots). In order to find P.M, that is, submodule M of package P, use find&lt;em&gt;module() and load&lt;/em&gt;module() to find and load package P, and then use find&lt;em&gt;module() with the path argument set to P.&lt;/em&gt;&lt;em&gt;path&lt;/em&gt;_. When P itself has a dotted name, apply this recipe recursively.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, it&amp;#39;s basically is a pain the balls to deal with. Here is a working example:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;imp&lt;/span&gt;
+
+
+&lt;span class=&quot;n&quot;&gt;THINGS_TO_IMPORT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;utils.misc.MyClass1&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;   &lt;span class=&quot;c&quot;&gt;# class&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;utils.misc.foo&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;c&quot;&gt;# constant&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;utils.bar&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;c&quot;&gt;# from __init__.py&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&amp;#39;utils.misc&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;c&quot;&gt;# module&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;import_from_dotted_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dotted_names&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;sd&quot;&gt;&amp;quot;&amp;quot;&amp;quot; import_from_dotted_path(&amp;#39;foo.bar&amp;#39;) -&amp;gt; from foo import bar; return bar &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;next_module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;remaining_names&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dotted_names&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;.&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;fp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pathname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;description&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;imp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find_module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;next_module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;imp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;load_module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;next_module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pathname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;hasattr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;remaining_names&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;getattr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;remaining_names&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;.&amp;#39;&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;remaining_names&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;module&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;import_from_dotted_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;remaining_names&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;__path__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;__main__&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name_of_thing&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;THINGS_TO_IMPORT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;thing&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;import_from_dotted_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name_of_thing&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; =&amp;gt; &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%r&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name_of_thing&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;thing&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And the output as expected:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;utils.misc.MyClass1 &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&amp;gt; &amp;lt;class &lt;span class=&quot;s1&quot;&gt;&amp;#39;misc.MyClass1&amp;#39;&lt;/span&gt;&amp;gt;
+utils.misc.foo &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&amp;gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;bar&amp;#39;&lt;/span&gt;: 7&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+utils.bar &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&amp;gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;foo&amp;#39;&lt;/span&gt;
+utils.misc &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&amp;gt; &amp;lt;module &lt;span class=&quot;s1&quot;&gt;&amp;#39;utils&amp;#39;&lt;/span&gt; from &lt;span class=&quot;s1&quot;&gt;&amp;#39;myapp/utils/__init__.pyc&amp;#39;&lt;/span&gt;&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Here is a directory listing of my test modules, in case this isn&amp;#39;t clear.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;./utils/__init__.py:
+
+&lt;span class=&quot;nv&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;foo&amp;#39;&lt;/span&gt;
+
+
+./utils/misc.py:
+
+class MyClass1&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;object&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;:
+    pass
+
+&lt;span class=&quot;nv&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;bar&amp;#39;&lt;/span&gt;: 7&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Reload Python inside uWSGI as fast as humanely possible</title>
+            <link href="/blog/2014/03/30/uwsgi-python-reload.html"/>
+            <updated>2014-03-30T00:00:00-07:00</updated>
+            <id>http://chase-seibert.github.com/blog//2014/03/30/uwsgi-python-reload</id>
+            <content type="html">&lt;p&gt;The Django development web server you get when you execute &lt;code&gt;./manage.py runserver&lt;/code&gt; optimizes for one thing; fast hot reloading when you change your Python code. It does almost nothing else well, by design.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;DO NOT USE THIS SERVER IN A PRODUCTION SETTING. It has not gone through security audits or performance tests. (And that’s how it’s gonna stay. We’re in the business of making Web frameworks, not Web servers, so improving this server to be able to handle a production environment is outside the scope of Django.)...
+The development server automatically reloads Python code for each request, as needed. You don’t need to restart the server for code changes to take effect. -  &lt;a href=&quot;https://docs.djangoproject.com/en/dev/ref/django-admin/#runserver-port-or-address-port&quot;&gt;The Django Docs&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you&amp;#39;re running &lt;a href=&quot;http://projects.unbit.it/uwsgi/&quot;&gt;uWSGI&lt;/a&gt; in production, you may decide that you want to run it in development, as well. But you&amp;#39;ll quickly notice that by default, code is not hot-reloaded in uWSGI. You can enable that with the &lt;a href=&quot;http://uwsgi-docs.readthedocs.org/en/latest/Options.html#py-auto-reload-py-autoreload-python-auto-reload-python-autoreload&quot;&gt;py-autoreload setting&lt;/a&gt;. It works by polling the code every X seconds.&lt;/p&gt;
+
+&lt;p&gt;Polling is already not ideal, but the story gets even worse if your code is on a remote file system, like an NFS share. This is a common setup if your development environment is running in a VM, like &lt;a href=&quot;http://www.vagrantup.com/&quot;&gt;Vagrant&lt;/a&gt;. The problem is that polling is relatively slow over NFS. It can take 10 seconds on a medium sized code base to pick up changes. This is a bummer if you&amp;#39;re coming from a virtually instantaneous runserver reload.&lt;/p&gt;
+
+&lt;p&gt;Recent versions of uwsgi also support &lt;a href=&quot;https://github.com/unbit/uwsgi-docs/blob/master/Changelog-1.9.14.rst#filesystem-monitoring-interface-fsmon&quot;&gt;inotify&lt;/a&gt; to pick up changes more quickly. But that also doesn&amp;#39;t work over NFS.&lt;/p&gt;
+
+&lt;p&gt;The good news is that uWSGI also supports touch reloading. Basically you set a &lt;code&gt;touch-reload&lt;/code&gt; file in your config, and if you do a &lt;code&gt;touch thatfile&lt;/code&gt;, your Python code gets reloaded immediately. This works well over NFS because uWSGI polls that file much more quickly.&lt;/p&gt;
+
+&lt;p&gt;So how can we get an OSX host machine to update the touch file in the guest Linux host every time your code changes? Basically, you can use an inotify replacement for OSX called &lt;a href=&quot;https://github.com/alandipert/fswatch&quot;&gt;fswatch&lt;/a&gt;. In this case, we&amp;#39;re going to have it run a command to open a socket to the guest VM, and tell a custom daemon to touch the reload file.&lt;/p&gt;
+
+&lt;p&gt;First, you need to install fswatch locally.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;brew install fswatch&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Then, fork off a process watching your code directory, and pinging the remote daemon. I&amp;#39;m assuming that your VM has an entry in your hosts file called &lt;code&gt;vagrant-vm&lt;/code&gt;. You can also use a static IP. The daemon will be listening on port 9001. &lt;em&gt;Note: fswatch does not currently take an extension filter, so this will restart uWSGI on ANY file change.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;fswatch ~/mycode &lt;span class=&quot;s2&quot;&gt;&amp;quot;echo &amp;#39;.&amp;#39; |nc vagrant-vm 9001&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;amp;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Then, on the Linux VM guest, you fork off the daemon listener.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;nc -l &lt;span class=&quot;m&quot;&gt;9001&lt;/span&gt; -k &amp;gt; ~/mycode/.reload&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This is assuming you have the uWSGI &lt;code&gt;touch-reload&lt;/code&gt; file set to &lt;code&gt;~/mycode/.reload&lt;/code&gt;. That&amp;#39;s it! When you update a file in &lt;code&gt;~/mycode&lt;/code&gt; locally, you should see the following immediately in the uWSGI logs:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;...gracefully killing workers...
+Gracefully killing worker &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pid: 25505&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;...
+worker &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt; buried after &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt; seconds
+binary reloading uWSGI...
+...
+WSGI app &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;mountpoint&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; ready in &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; seconds on interpreter 0x239b270 pid: &lt;span class=&quot;m&quot;&gt;18792&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;default app&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+gracefully &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;RE&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;spawned uWSGI master process &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pid: 18792&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+spawned uWSGI worker &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pid: 25512, cores: 1&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+Sun Mar &lt;span class=&quot;m&quot;&gt;30&lt;/span&gt; 18:01:26 &lt;span class=&quot;m&quot;&gt;2014&lt;/span&gt; - &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;emperor&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; vassal is ready to accept requests
+Python auto-reloader enabled&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</content>
+        </entry>
+    
+
+</feed>
